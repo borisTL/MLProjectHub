@@ -266,4 +266,4 @@ The program was tested with three different initial states of the 8-puzzle. For 
 
 ## **Author:**
 - Boris Teplitskiy 
-- ID 336249289
+
